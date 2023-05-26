@@ -7,7 +7,7 @@ header {
 
 .banner {
     background-color:  #E6E6E6;
-    background-image: url('../img/banner.png');    
+    background-image: url('../img/banner.png');   
 }
 
 .profile {
@@ -30,7 +30,7 @@ h1 {
     background-color: #C4C4C4;
     color: #005677;
     text-transform: uppercase; 
-    font-family: 'Poppins',"Times New Roman";
+    font-family: 'Inter',"Times New Roman";
     text-align: center;
     letter-spacing: 20px;
     height: 70px;
@@ -47,18 +47,18 @@ h2 {
     background-color: #C4C4C4;
     color: #005677;
     text-transform: uppercase; 
-    font-family: 'Poppins',"Times New Roman";
+    font-family: 'Inter',"Times New Roman";
     text-align: center;
 }
 
 section li span {
     font-weight: bold;
-    font-family: 'Poppins',"Times New Roman";
+    font-family: 'Inter',"Times New Roman";
 }
 
 .sinPuntitos > li {
     list-style-type: none;
-    font-family: 'Poppins',"Times New Roman";
+    font-family: 'Inter',"Times New Roman";
     font-size: 20px
 }
 
@@ -66,7 +66,7 @@ section li span {
 footer {
     background-color: #005677;
     color: white; 
-    font-family: 'Poppins',"Times New Roman";
+    font-family: 'Inter',"Times New Roman";
     text-align: center;
     padding: 20px; 
     display: flex;
@@ -92,7 +92,7 @@ footer > img {
     border: none;
     color: white;
     cursor: pointer;
-    font-family: 'Poppins',"Times New Roman";
+    font-family: 'Inter',"Times New Roman";
     font-size: 20px;
     padding: 15px;
     text-align: center;
@@ -110,7 +110,7 @@ footer > img {
     border: none;
     color: #005677;
     cursor: pointer;
-    font-family: 'Poppins',"Times New Roman";
+    font-family: 'Inter',"Times New Roman";
     font-size: 20px;
     font-weight: bold;
     padding: 20px;
