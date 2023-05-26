@@ -1,0 +1,96 @@
+header {
+    position: relative;
+    text-align: center;
+    padding-bottom: 3%;
+   
+}
+
+.banner {
+    background-color:  #E6E6E6;
+    background-image: url('../img/banner.png');
+    overflow: hidden;
+    background-repeat: repeat-x ;
+      
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    padding-left: 10%;
+   
+}
+
+.foto {
+    border-radius: 50%;
+    margin-right: 5px;
+    padding: 5%;
+    width: 250px; /* Ajusta el ancho según tus preferencias */
+    height: 270px;
+       
+}
+
+h1 {
+    background-color: #C4C4C4;
+    color: #005677;
+    text-transform: uppercase; 
+    font-family: 'Poppins',"Times New Roman";
+    text-align: center;
+    letter-spacing: 20px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+/* main */
+
+h2 {
+    background-color: #C4C4C4;
+    color: #005677;
+    text-transform: uppercase; 
+    font-family: 'Poppins',"Times New Roman";
+    text-align: center;
+}
+
+section li span {
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Poppins',"Times New Roman";
+}
+
+.sinPuntitos > li {
+    list-style-type: none;
+    font-family: 'Poppins',"Times New Roman";
+    font-size: 20px
+}
+
+/* footer */
+footer {
+    background-color: #005677;
+    color: white; 
+    font-family: 'Poppins',"Times New Roman";
+    text-align: center;
+    padding: 20px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer > span {
+    margin-right: 10px;
+    
+}
+
+footer > img {
+    max-height: 20px;
+    margin-left: 10px;
+    font-size: 30px;
+    color: white;
+}
+
+.redes {
+    font-size: 30px;
+    color: white;
+}
