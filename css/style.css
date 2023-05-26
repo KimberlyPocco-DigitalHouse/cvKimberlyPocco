@@ -7,10 +7,7 @@ header {
 
 .banner {
     background-color:  #E6E6E6;
-    background-image: url('../img/banner.png');
-    overflow: hidden;
-   
-      
+    background-image: url('../img/banner.png');    
 }
 
 .profile {
@@ -24,7 +21,7 @@ header {
     border-radius: 50%;
     margin-right: 5px;
     padding: 5%;
-    width: 250px; /* Ajusta el ancho según tus preferencias */
+    width: 250px; 
     height: 270px;
        
 }
