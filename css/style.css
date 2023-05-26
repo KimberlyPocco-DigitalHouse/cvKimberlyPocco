@@ -108,3 +108,16 @@ footer > img {
     color: white;
     padding-right: 15px;
 }
+
+.regresar{
+    background-color: white;
+    border-radius: 24px;
+    border: none;
+    color: #005677;
+    cursor: pointer;
+    font-family: 'Poppins',"Times New Roman";
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+}
